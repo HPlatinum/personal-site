@@ -12,6 +12,7 @@ header h1 {
     color: #ffe2ad;
     margin-block-start: 0;
     margin-block-end: -10px;
+    margin-inline-start: 50px;
 }
 
 header h2 {
@@ -20,6 +21,7 @@ header h2 {
     color: #ffe2ad;
     margin-block-start: 0;
     margin-block-end: 0;
+    margin-inline-start: 50px;
 }
 
 #nav-bar nav {
