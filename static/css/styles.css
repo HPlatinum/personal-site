@@ -103,3 +103,9 @@ header h2 {
     margin-top: 10px;
     padding: 20px;
 }
+
+.topCard {
+    background-color: #4c657e;
+    margin-top: 120px;
+    padding: 20px;
+}
